@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Mayke Honorato Mazoni</h1>
+<h1 align="center"> sou Mayke Honorato Mazoni</h1>
 <h3 align="center">Apaixonado por ciência e analise de dados no mundo geral</h3>
 
 - 💬 Me pergunte sobre **Sql, google Data Studio,Power BI E oracle**
