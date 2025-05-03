@@ -1,5 +1,10 @@
 # Ola! Eu sou o Mayke Honorato Mazoni
 
+- 💻 Hoje Trabalho com Analista de Sistema Junior
+- 📘 Estudando DataScience
+
+
+ 
 <div>
   <a href="https://github.com/MaykeHonorato">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaykeHonorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,7 +21,5 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/maykehonorato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
 </div>
 
