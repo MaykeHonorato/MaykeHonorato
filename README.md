@@ -5,7 +5,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/maykehonorato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/maykehonorato" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"></a> 
+  <a href="https://www.linkedin.com/in/maykehonorato" target="_blank"><img src="https://img.shields.io/badge/-email-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white%22%20target=%22_blank"></a> 
  <a href="https://github.com/MaykeHonorato?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MaykeHonorato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
 </div>
 
