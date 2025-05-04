@@ -6,13 +6,11 @@
 - 🔧 Desenvolvendo projetos para meu **portfólio de dados**
 - 📫 Entre em contato comigo:
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/maykehonorato/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://formsubmit.co/maike-honorato@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+<div> 
+  <a href="https://www.linkedin.com/in/maykehonorato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://github.com/MaykeHonorato?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MaykeHonorato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+  
+
 </div>
 
   </a>
