@@ -6,12 +6,21 @@
 - 🔧 Desenvolvendo projetos para meu **portfólio de dados**
 - 📫 Entre em contato comigo:
 
+
 <div> 
-  <a href="https://www.linkedin.com/in/maykehonorato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://github.com/MaykeHonorato?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MaykeHonorato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-  
+  <a href="https://www.linkedin.com/in/maykehonorato" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+
+  <a href="https://github.com/MaykeHonorato?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MaykeHonorato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas">
+  </a>
+
+  <a href="mailto:maike-honorato@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-%23D44638?style=for-the-badge&logo=hotmail&logoColor=white" alt="E-mail">
+  </a>
 </div>
-</a>
+
 
 ---
 
