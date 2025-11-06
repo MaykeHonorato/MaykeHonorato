@@ -1,7 +1,8 @@
+<!-- 🌌 PERFIL FUTURISTA - MAYKE HONORATO MAZONI -->
 
-<!-- PERFIL FUTURISTA - MAYKE HONORATO MAZONI -->
-
-<h1 align="center">👋 Olá! Eu sou o Mayke Honorato Mazoni</h1>
+<h1 align="center">
+  👋 Olá! Eu sou o <span style="color:#7DF9FF;">Mayke Honorato Mazoni</span>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-1F1B2E?style=for-the-badge&logoColor=white&logo=databricks" />
@@ -30,11 +31,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maykehonorato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykehonorato&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maykehonorato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykehonorato&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ---
