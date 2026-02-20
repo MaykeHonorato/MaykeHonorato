@@ -1,11 +1,11 @@
-<!-- 🌌 PERFIL FUTURISTA - MAYKE HONORATO MAZONI -->
+<!-- 🌌 PERFIL PROFISSIONAL - MAYKE HONORATO MAZONI -->
 
 <h1 align="center">
   👋 Olá! Eu sou o <span style="color:#7DF9FF;">Mayke Honorato Mazoni</span>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-1F1B2E?style=for-the-badge&logoColor=white&logo=databricks" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-1F1B2E?style=for-the-badge&logoColor=white&logo=databricks" />
   <img src="https://img.shields.io/badge/Python-0B84A5?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-2E7D32?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -15,11 +15,30 @@
 
 ### 🚀 Sobre mim
 
-💡 Atualmente trabalho como **Analista de Sistemas Júnior**  
-📚 Estudando **Data Science e Análise de Dados**  
-🔥 Apaixonado por **dados, tecnologia e inovação**  
-📊 Desenvolvendo projetos e dashboards para portfólio de dados  
-🤝 Sempre em busca de aprender algo novo e compartilhar conhecimento  
+💼 Atualmente atuo como **Analista de Sistemas Júnior**  
+📊 Foco em **Business Intelligence, Modelagem de Dados e Análise Estratégica**  
+🐍 Aplicando **SQL e Python** para transformar dados em insights acionáveis  
+📈 Desenvolvendo projetos práticos com dashboards e análises orientadas a negócio  
+⚙️ Construindo soluções baseadas em dados com boas práticas de modelagem  
+
+---
+
+### 📌 Projetos em Destaque
+
+📊 **Análise de Vendas End-to-End (Power BI + SQL)**  
+✔ Modelagem Dimensional (Star Schema)  
+✔ KPIs estratégicos: Receita, Ticket Médio, Margem  
+✔ DAX para análise comparativa e crescimento mensal  
+
+🗄️ **Sistema de Oficina Mecânica (SQL Avançado)**  
+✔ Modelagem ER completa  
+✔ Queries com JOIN, CTE, HAVING e Subqueries  
+✔ Análise de faturamento e performance por período  
+
+📈 **Análise Exploratória com Python**  
+✔ Limpeza e tratamento de dados com Pandas  
+✔ Análise estatística e visualizações  
+✔ Geração de insights estratégicos  
 
 ---
 
@@ -38,7 +57,6 @@
 
 ---
 
-
 ### 🌐 Conecte-se comigo
 
 <p align="center">
@@ -53,13 +71,5 @@
 ---
 
 <p align="center">
-  ⚡ <i>“Explorando, limpando e visualizando dados com propósito.”</i> ⚡  
+  ⚡ <i>Transformando dados em decisões estratégicas através de análise, modelagem e visualização.</i> ⚡  
 </p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
-
