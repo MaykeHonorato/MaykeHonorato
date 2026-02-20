@@ -35,11 +35,6 @@
 ✔ Queries com JOIN, CTE, HAVING e Subqueries  
 ✔ Análise de faturamento e performance por período  
 
-📈 **Análise Exploratória com Python**  
-✔ Limpeza e tratamento de dados com Pandas  
-✔ Análise estatística e visualizações  
-✔ Geração de insights estratégicos  
-
 ---
 
 ### 🧠 Linguagens e Tecnologias
