@@ -15,25 +15,27 @@
 
 ### 🚀 Sobre mim
 
-💼 Atualmente atuo como **Analista de Sistemas Júnior**  
+💼 Atuo como **Analista de Sistemas Júnior**  
 📊 Foco em **Business Intelligence, Modelagem de Dados e Análise Estratégica**  
-🐍 Aplicando **SQL e Python** para transformar dados em insights acionáveis  
-📈 Desenvolvendo projetos práticos com dashboards e análises orientadas a negócio  
-⚙️ Construindo soluções baseadas em dados com boas práticas de modelagem  
-🔥 Apaixonado por **dados, tecnologia e inovação**  
+🐍 Utilizo **SQL e Python** para transformar dados em insights acionáveis  
+📈 Desenvolvo dashboards e análises orientadas a negócio  
+⚙️ Aplico boas práticas de modelagem e organização de dados  
+🔥 Apaixonado por tecnologia, dados e inovação  
+
 ---
 
 ### 📌 Projetos em Destaque
 
 📊 **Análise de Vendas End-to-End (Power BI + SQL)**  
 ✔ Modelagem Dimensional (Star Schema)  
-✔ KPIs estratégicos: Receita, Ticket Médio, Margem  
+✔ KPIs estratégicos: Receita, Ticket Médio e Margem  
 ✔ DAX para análise comparativa e crescimento mensal  
 
 🗄️ **Sistema de Oficina Mecânica (SQL Avançado)**  
 ✔ Modelagem ER completa  
 ✔ Queries com JOIN, CTE, HAVING e Subqueries  
 ✔ Análise de faturamento e performance por período  
+  
 
 ---
 
