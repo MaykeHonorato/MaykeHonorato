@@ -26,15 +26,7 @@
 
 ### 📌 Projetos em Destaque
 
-📊 **Análise de Vendas End-to-End (Power BI + SQL)**  
-✔ Modelagem Dimensional (Star Schema)  
-✔ KPIs estratégicos: Receita, Ticket Médio e Margem  
-✔ DAX para análise comparativa e crescimento mensal  
 
-🗄️ **Sistema de Oficina Mecânica (SQL Avançado)**  
-✔ Modelagem ER completa  
-✔ Queries com JOIN, CTE, HAVING e Subqueries  
-✔ Análise de faturamento e performance por período  
   
 
 ---
