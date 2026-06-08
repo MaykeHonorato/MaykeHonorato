@@ -24,19 +24,23 @@
 
 ---
 
-### 📌 Projetos em Destaque
+###  Projetos em Destaque
 
-* **📊 Urban Mobility Dashboard**
+* ** Urban Mobility Dashboard**
   Projeto de Business Intelligence voltado para a análise estratégica de dados de mobilidade urbana, transformando indicadores de transporte e fluxo em insights visuais direcionados para a tomada de decisão.
   * **Tecnologias:** Power BI, DAX, Modelagem Star Schema, ETL.
   * [📂 Ver Repositório](https://github.com/MaykeHonorato/Urban-Mobility-Dashboard.git)
 
-* **⚡ Fluxos no Alteryx Designer**
+* ** Fluxos no Alteryx Designer**
   Desenvolvimento e automação de pipelines de dados corporativos de ponta a ponta (End-to-End), integrando processos avançados de ETL com foco em governança, eficiência e tratamento de dados brutos.
   * **Tecnologias:** Alteryx Designer, SQL Server, ETL, Automação.
   * **Destaques:** Conexão direta com banco de dados relacional SQL Server, higienização de bases complexas e organização de fluxos de trabalho automatizados para análises recorrentes.
   * [📂 Ver Repositório](https://github.com/MaykeHonorato/fluxos-no-Alteryx-Designer-.git)
 
+* ** Financeiro**
+  Análise financeira com receitas, despesas, margem e fluxo de caixa para suporte à gestão executiva.
+  * **Destaques técnicos:** Receita, custo e margem , DRE gerencial visual , Fluxo de caixa por período, Variações vs orçamento
+  * [📂 Ver Repositório](https://app.powerbi.com/view?r=eyJrIjoiMjM0ZGM3MjgtN2E5My00ZGRjLTllYTEtNThlMjRlZjk3MTgyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ---
 
