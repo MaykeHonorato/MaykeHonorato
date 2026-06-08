@@ -25,13 +25,10 @@
 ---
 
 ### 📌 Projetos em Destaque
-
-<table>
-  <tr>
+  
     <td width="50%" valign="top">
       <h3>📊 Urban Mobility Dashboard</h3>
       <p>Projeto de Business Intelligence voltado para a análise estratégica de dados de mobilidade urbana, transformando indicadores de transporte e fluxo em insights visuais direcionados para a tomada de decisão.</p>
-      <p>
         <b>🔧 Tecnologias:</b> Power BI, DAX, Modelagem Star Schema, ETL.<br>
         <b>🎯 Destaques:</b> Criação de métricas de desempenho, design de dashboard focado em UX/UI e estruturação de modelo de dados otimizado para performance de relatórios.
       </p>
@@ -46,8 +43,8 @@
       </p>
       <a href="./fluxos-no-Alteryx-Designer-">📂 Ver Repositório</a>
     </td>
-  </tr>
-  <tr>
+  
+  
     <td width="50%" valign="top">
       <h3>🗄️ Modelagem de Banco de Dados E-commerce</h3>
       <p>Concepção, modelagem e implementação do back-end de dados para uma plataforma de e-commerce. O projeto simula um ambiente de produção real, garantindo a integridade dos dados desde o pedido até o faturamento.</p>
@@ -66,9 +63,6 @@
       </p>
       <a href="./excel-projects-portfolio">📂 Ver Repositório</a>
     </td>
-  </tr>
-</table>
-  
 
 ---
 
