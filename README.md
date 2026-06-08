@@ -37,17 +37,6 @@
   * **Destaques:** Conexão direta com banco de dados relacional SQL Server, higienização de bases complexas e organização de fluxos de trabalho automatizados para análises recorrentes.
   * [📂 Ver Repositório](https://github.com/MaykeHonorato/fluxos-no-Alteryx-Designer-.git)
 
-* **🗄️ Modelagem de Banco de Dados E-commerce**
-  Concepção, modelagem e implementação do back-end de dados para uma plataforma de e-commerce. O projeto simula um ambiente de produção real, garantindo a integridade dos dados desde o pedido até o faturamento.
-  * **Tecnologias:** SQL, Bancos de Dados Relacionais, Modelagem ER.
-  * **Destaques:** Aplicação rigorosa de regras de normalização (1FN, 2FN, 3FN), desenho de Diagrama Entidade-Relacionamento (DER) e estruturação de chaves e relacionamentos complexos.
-  * [📂 Ver Repositório](./Projeto-de-Banco-de-Dados-E-commerce)
-
-* **📈 Excel Projects Portfolio**
-  Repositório focado em soluções analíticas financeiras e operacionais utilizando planilhas avançadas, cobrindo gestão de importação, simulação de rendimentos e dashboards de controle de custos.
-  * **Tecnologias:** Microsoft Excel, Fórmulas Avançadas, Dashboards.
-  * **Destaques:** Estruturação de simulador de informe de rendimento, controle financeiro pessoal com conciliação de receitas/despesas e tabelas dinâmicas orientadas a negócios.
-  * [📂 Ver Repositório](./excel-projects-portfolio)
 
 ---
 
