@@ -29,7 +29,7 @@
 * **📊 Urban Mobility Dashboard**
   Projeto de Business Intelligence voltado para a análise estratégica de dados de mobilidade urbana, transformando indicadores de transporte e fluxo em insights visuais direcionados para a tomada de decisão.
   * **Tecnologias:** Power BI, DAX, Modelagem Star Schema, ETL.
-  * [📂 Ver Repositório](./Urban-Mobility-Dashboard)
+  * [📂 Ver Repositório](https://github.com/MaykeHonorato/Urban-Mobility-Dashboard.git)
 
 * **⚡ Fluxos no Alteryx Designer**
   Desenvolvimento e automação de pipelines de dados corporativos de ponta a ponta (End-to-End), integrando processos avançados de ETL com foco em governança, eficiência e tratamento de dados brutos.
