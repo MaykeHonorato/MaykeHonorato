@@ -26,8 +26,6 @@
 
 ### 📌 Projetos em Destaque
 
-### 📌 Projetos em Destaque
-
 <table>
   <tr>
     <td width="50%" valign="top">
