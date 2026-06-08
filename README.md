@@ -35,7 +35,7 @@
   Desenvolvimento e automação de pipelines de dados corporativos de ponta a ponta (End-to-End), integrando processos avançados de ETL com foco em governança, eficiência e tratamento de dados brutos.
   * **Tecnologias:** Alteryx Designer, SQL Server, ETL, Automação.
   * **Destaques:** Conexão direta com banco de dados relacional SQL Server, higienização de bases complexas e organização de fluxos de trabalho automatizados para análises recorrentes.
-  * [📂 Ver Repositório](./fluxos-no-Alteryx-Designer-)
+  * [📂 Ver Repositório](https://github.com/MaykeHonorato/fluxos-no-Alteryx-Designer-.git)
 
 * **🗄️ Modelagem de Banco de Dados E-commerce**
   Concepção, modelagem e implementação do back-end de dados para uma plataforma de e-commerce. O projeto simula um ambiente de produção real, garantindo a integridade dos dados desde o pedido até o faturamento.
