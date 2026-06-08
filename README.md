@@ -26,35 +26,21 @@
 
 ### 📌 Projetos em Destaque
   
-    <td width="50%" valign="top">
-      <h3>📊 Urban Mobility Dashboard</h3>
-      <p>Projeto de Business Intelligence voltado para a análise estratégica de dados de mobilidade urbana, transformando indicadores de transporte e fluxo em insights visuais direcionados para a tomada de decisão.</p>
-        <b>🔧 Tecnologias:</b> Power BI, DAX, Modelagem Star Schema, ETL.<br>
-        <b>🎯 Destaques:</b> Criação de métricas de desempenho, design de dashboard focado em UX/UI e estruturação de modelo de dados otimizado para performance de relatórios.
-      </p>
-      <a href="./Urban-Mobility-Dashboard">📂 Ver Repositório</a>
-    </td>
-    <td width="50%" valign="top">
+     Urban Mobility Dashboard</h3>
+      Projeto de Business Intelligence voltado para a análise estratégica de dados de mobilidade urbana, transformando indicadores de transporte e fluxo em insights visuais direcionados para a tomada de decisão.
+       Tecnologias:</b> Power BI, DAX, Modelagem Star Schema, ETL.
+
       <h3>⚡ Fluxos no Alteryx Designer</h3>
-      <p>Desenvolvimento e automação de pipelines de dados corporativos de ponta a ponta (End-to-End), integrando processos avançados de ETL com foco em governança, eficiência e tratamento de dados brutos.</p>
-      <p>
-        <b>🔧 Tecnologias:</b> Alteryx Designer, SQL Server, ETL, Automação.<br>
-        <b>🎯 Destaques:</b> Conexão direta com banco de dados relacional SQL Server, higienização de bases complexas e organização de fluxos de trabalho automatizados para análises recorrentes.
-      </p>
-      <a href="./fluxos-no-Alteryx-Designer-">📂 Ver Repositório</a>
-    </td>
+      Desenvolvimento e automação de pipelines de dados corporativos de ponta a ponta (End-to-End), integrando processos avançados de ETL com foco em governança, eficiência e tratamento de dados brutos.
+       Tecnologias:</b> Alteryx Designer, SQL Server, ETL, Automação.
+       Destaques:</b> Conexão direta com banco de dados relacional SQL Server, higienização de bases complexas e organização de fluxos de trabalho automatizados para análises recorrentes.
   
-  
-    <td width="50%" valign="top">
-      <h3>🗄️ Modelagem de Banco de Dados E-commerce</h3>
-      <p>Concepção, modelagem e implementação do back-end de dados para uma plataforma de e-commerce. O projeto simula um ambiente de produção real, garantindo a integridade dos dados desde o pedido até o faturamento.</p>
-      <p>
-        <b>🔧 Tecnologias:</b> SQL, Bancos de Dados Relacionais, Modelagem ER.<br>
-        <b>🎯 Destaques:</b> Aplicação rigorosa de regras de normalização (1FN, 2FN, 3FN), desenho de Diagrama Entidade-Relacionamento (DER) e estruturação de chaves e relacionamentos complexos.
-      </p>
-      <a href="./Projeto-de-Banco-de-Dados-E-commerce">📂 Ver Repositório</a>
-    </td>
-    <td width="50%" valign="top">
+      🗄️ Modelagem de Banco de Dados E-commerce
+      Concepção, modelagem e implementação do back-end de dados para uma plataforma de e-commerce. O projeto simula um ambiente de produção real, garantindo a integridade dos dados desde o pedido até o faturamento.
+       Tecnologias:</b> SQL, Bancos de Dados Relacionais, Modelagem ER.
+       Destaques:</b> Aplicação rigorosa de regras de normalização (1FN, 2FN, 3FN), desenho de Diagrama Entidade-Relacionamento (DER) e estruturação de chaves e relacionamentos complexos.
+      
+    
       <h3>📈 Excel Projects Portfolio</h3>
       <p>Repositório focado em soluções analíticas financeiras e operacionais utilizando planilhas avançadas, cobrindo gestão de importação, simulação de rendimentos e dashboards de controle de custos.</p>
       <p>
