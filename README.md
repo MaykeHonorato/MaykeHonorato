@@ -117,21 +117,36 @@ Dashboard desenvolvido para análise estratégica da mobilidade urbana utilizand
 
 </p>
 
-## ⚙ Fluxos no Alteryx Designer
+## ⚙️ [Fluxos no Alteryx Designer](https://github.com/MaykeHonorato/fluxos-no-Alteryx-Designer-)
 
-Automação completa de pipelines ETL corporativos.
+Projeto desenvolvido para criação e automação de **pipelines ETL**, realizando integração, tratamento e preparação de dados para análises corporativas.
 
-### Tecnologias
+### 🛠 Tecnologias utilizadas
 
-- Alteryx
-- SQL Server
-- ETL
-- Automação
+<div>
 
-🔗
+![Alteryx](https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-009688?style=for-the-badge)
+![Data Automation](https://img.shields.io/badge/Data%20Automation-6A5ACD?style=for-the-badge)
 
-https://github.com/MaykeHonorato/fluxos-no-Alteryx-Designer-
+</div>
 
+### 📌 Principais recursos
+
+✔ Desenvolvimento de fluxos automatizados no Alteryx Designer  
+✔ Extração e transformação de dados (ETL)  
+✔ Integração com bases SQL Server  
+✔ Limpeza, padronização e preparação de dados  
+✔ Automação de processos analíticos  
+
+<p align="center">
+
+<a href="https://github.com/MaykeHonorato/fluxos-no-Alteryx-Designer-">
+<img src="https://img.shields.io/badge/📂%20Ver%20Projeto-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 ---
 
 ## 💰 Dashboard Financeiro
