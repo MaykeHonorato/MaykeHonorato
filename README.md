@@ -218,23 +218,23 @@ Spark               ██████░░░░░░░░░ 45%
 
 ---
 
-## 🤝 Vamos conversar?
+## 🚀 Vamos construir algo incrível juntos?
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/maykehonorato/" target="_blank">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Conecte--se-0A66C2?style=for-the-badge"/>
-</a>
+Se você deseja conversar sobre projetos, tecnologia ou oportunidades na área de Dados, será um prazer trocar ideias.
+
+<br><br>
 
 <a href="mailto:maike-honorato@hotmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Enviar%20Mensagem-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Enviar_Email-181717?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maykehonorato/">
+<img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
-
-<p align="center">
-💬 Estou sempre aberto para conversar sobre <strong>Dados</strong>, <strong>Business Intelligence</strong>, <strong>Power BI</strong>, <strong>SQL</strong>, <strong>Python</strong> e novas oportunidades.
-</p>
 
 ---
 
