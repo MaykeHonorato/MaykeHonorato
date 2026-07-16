@@ -217,8 +217,6 @@ Tenho como objetivo atuar na área de **Dados**, unindo minha experiência em si
 > AWS, Databricks e Apache Spark
 
 
----
-
 <h2 align="center">🤝 Vamos nos conectar</h2>
 
 <p align="center">
@@ -241,19 +239,13 @@ Tenho como objetivo atuar na área de **Dados**, unindo minha experiência em si
 
 
 
-# 📊 Meu Impacto no GitHub
+# 🐍 Minha Jornada de Código
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaykeHonorato&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=MaykeHonorato&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/MaykeHonorato/MaykeHonorato/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
-<div align="center">
 
 ### ⭐ Obrigado por visitar meu perfil!
 
