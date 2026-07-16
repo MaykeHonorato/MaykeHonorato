@@ -1,6 +1,15 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Mayke%20Honorato%20Mazoni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Mayke%20Honorato%20Mazoni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20SQL%20%7C%20Python&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&customColorList=24,25,26&text=Mayke%20Honorato&fontSize=60&fontColor=00E5FF&animation=fadeIn&desc=Transformando%20Dados%20em%20Insights&descAlignY=70&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,100:243B55&text=Mayke%20Honorato%20Mazoni&fontSize=52&fontColor=FFFFFF&animation=twinkling&desc=📊%20Data%20Analytics%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:232526,100:414345&text=Mayke%20Honorato%20Mazoni&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=☁️%20Cloud%20%7C%20Data%20%7C%20Analytics%20%7C%20Innovation&descAlignY=65"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B132B,50:1C2541,100:3A506B&text=Mayke%20Honorato%20Mazoni&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Analista%20de%20Dados%20%7C%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20AWS&descAlignY=65&descSize=22"/>
+
+</div>
 
 # 👋 Olá, eu sou o Mayke Honorato Mazoni
 
