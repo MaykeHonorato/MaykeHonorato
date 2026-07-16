@@ -24,9 +24,6 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 - ☁ AWS
 - 🔥 Databricks
 - 📈 Business Intelligence
-# 🛠 Stack Tecnológica
-
-<div align="center">
 
 # 🛠 Tecnologias
 
