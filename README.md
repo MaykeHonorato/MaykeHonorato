@@ -218,29 +218,23 @@ Spark               ██████░░░░░░░░░ 45%
 
 ---
 
-# 🌎 Vamos nos conectar
+## 🤝 Vamos conversar?
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/maykehonorato/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/maykehonorato/" target="_blank">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Conecte--se-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="mailto:maike-honorato@hotmail.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/📧%20Email-Enviar%20Mensagem-EA4335?style=for-the-badge"/>
 </a>
 
 </div>
 
----
-
-# 👀 Visitantes
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MaykeHonorato&style=for-the-badge&color=blue"/>
-
-</div>
+<p align="center">
+💬 Estou sempre aberto para conversar sobre <strong>Dados</strong>, <strong>Business Intelligence</strong>, <strong>Power BI</strong>, <strong>SQL</strong>, <strong>Python</strong> e novas oportunidades.
+</p>
 
 ---
 
