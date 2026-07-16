@@ -42,19 +42,7 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
 
 </div>
 
