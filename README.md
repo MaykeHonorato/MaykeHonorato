@@ -70,19 +70,6 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 <img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
 
 </div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaykeHonorato&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykeHonorato&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
