@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 # 🚀 Sobre mim
 
@@ -38,11 +37,10 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 - 🔥 Databricks
 - 📈 Business Intelligence
 
----
+
 
 # 💡 Atualmente
 
-```text
 📚 Estudando:
 ├── SQL Avançado
 ├── Python para Dados
@@ -50,9 +48,6 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 ├── Databricks
 ├── Engenharia de Dados
 └── Power BI
-```
-
----
 
 # 🛠 Tecnologias
 
@@ -70,7 +65,6 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 <img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
 
 </div>
----
 
 # 🔥 GitHub Streak
 
@@ -80,7 +74,6 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 
 </div>
 
----
 
 # 📈 Contribuições
 
@@ -91,26 +84,38 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 </div>
 
 ---
-
 # 🚀 Projetos em Destaque
 
-## 🚇 Urban Mobility Dashboard
+## 🚇 [Urban Mobility Dashboard](https://github.com/MaykeHonorato/Urban-Mobility-Dashboard)
 
-Dashboard desenvolvido para análise estratégica da mobilidade urbana utilizando Power BI.
+Dashboard desenvolvido para análise estratégica da mobilidade urbana utilizando **Power BI**, transformando dados de mobilidade em indicadores visuais para apoio à tomada de decisão.
 
-### Tecnologias
+### 🛠 Tecnologias utilizadas
 
-- Power BI
-- SQL
-- DAX
-- ETL
-- Modelagem Star Schema
+<div>
 
-🔗 **Repositório**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-00599C?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-009688?style=for-the-badge)
 
-https://github.com/MaykeHonorato/Urban-Mobility-Dashboard
+</div>
 
----
+### 📌 Principais recursos
+
+✔ Modelagem dimensional (Star Schema)  
+✔ Tratamento e transformação de dados  
+✔ Criação de indicadores estratégicos  
+✔ Dashboards interativos  
+✔ Análise de tendências e performance  
+
+<p align="center">
+
+<a href="https://github.com/MaykeHonorato/Urban-Mobility-Dashboard">
+<img src="https://img.shields.io/badge/📂%20Ver%20Projeto-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ## ⚙ Fluxos no Alteryx Designer
 
