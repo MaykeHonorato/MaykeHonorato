@@ -252,15 +252,6 @@ Spark               ██████░░░░░░░░░ 45%
 
 </div>
 
----
-
-# 💬 Frase
-
-<div align="center">
-
-> **"Dados contam histórias. Meu trabalho é transformá-las em decisões inteligentes."**
-
-</div>
 
 ---
 
