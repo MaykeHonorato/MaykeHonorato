@@ -37,32 +37,30 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 
 <div align="center">
 
-### 📊 Dados & Analytics
+# 🛠 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,vscode"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,vscode,docker"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
 
 <br>
-
-### ☁️ Cloud & Engenharia de Dados
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
 <br>
 
-### 🔄 Ferramentas
-
+<img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
 
 </div>
 
