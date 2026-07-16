@@ -239,18 +239,19 @@ Tenho como objetivo atuar na área de **Dados**, unindo minha experiência em si
 <em>Aberto a oportunidades em Data Analytics, Business Intelligence e Engenharia de Dados.</em>
 </p>
 
----
 
-# 🏅 GitHub Trophies
+
+# 📊 Meu Impacto no GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MaykeHonorato&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MaykeHonorato&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=MaykeHonorato&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-
----
 
 <div align="center">
 
@@ -261,4 +262,4 @@ Se gostou dos meus projetos, deixe uma ⭐ nos repositórios.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
-````
+
