@@ -165,10 +165,10 @@ Dashboard desenvolvido em **Power BI** para análise financeira, permitindo acom
 
 | Tecnologia | Nível Atual | Foco |
 |------------|-------------|------|
-| 🗄️ SQL | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% | Consultas avançadas, otimização e modelagem |
-| 📊 Power BI | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% | Dashboards, DAX e Business Intelligence |
-| 🐍 Python | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% | Análise de dados e automação |
-| ☁️ AWS | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% | Cloud Computing e serviços de dados |
+| 🗄️ SQL | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% | Consultas avançadas, otimização e modelagem |
+| 📊 Power BI | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% | Dashboards, DAX e Business Intelligence |
+| 🐍 Python | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% | Análise de dados e automação |
+| ☁️ AWS | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% | Cloud Computing e serviços de dados |
 | 🔥 Databricks | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% | Engenharia de Dados e Apache Spark |
 
 </div>
