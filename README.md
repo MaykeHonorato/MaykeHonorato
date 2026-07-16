@@ -1,73 +1,277 @@
-<!-- 🌌 PERFIL PROFISSIONAL - MAYKE HONORATO MAZONI -->
+````markdown
+<div align="center">
 
-<h1 align="center">
-  👋 Olá! Eu sou o <span style="color:#7DF9FF;">Mayke Honorato Mazoni</span>
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Mayke%20Honorato%20Mazoni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-1F1B2E?style=for-the-badge&logoColor=white&logo=databricks" />
-  <img src="https://img.shields.io/badge/Python-0B84A5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-2E7D32?style=for-the-badge&logo=postgresql&logoColor=white" />
+# 👋 Olá, eu sou o Mayke Honorato Mazoni
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Analista+de+Dados+em+Constru%C3%A7%C3%A3o;Business+Intelligence;Power+BI+%7C+SQL+%7C+Python;ETL+%7C+Data+Analytics;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80" />
+
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
----
-
-### 🚀 Sobre mim
-
-💼 Atuo como **Analista de Sistemas Júnior**  
-📊 Foco em **Business Intelligence, Modelagem de Dados e Análise Estratégica**  
-🐍 Utilizo **SQL e Python** para transformar dados em insights acionáveis  
-📈 Desenvolvo dashboards e análises orientadas a negócio  
-⚙️ Aplico boas práticas de modelagem e organização de dados  
-🔥 Apaixonado por tecnologia, dados e inovação  
+</div>
 
 ---
 
-###  Projetos em Destaque
+# 🚀 Sobre mim
 
-* ** Urban Mobility Dashboard**
-  Projeto de Business Intelligence voltado para a análise estratégica de dados de mobilidade urbana, transformando indicadores de transporte e fluxo em insights visuais direcionados para a tomada de decisão.
-  * **Tecnologias:** Power BI, DAX, Modelagem Star Schema, ETL.
-  * [📂 Ver Repositório](https://github.com/MaykeHonorato/Urban-Mobility-Dashboard.git)
+🎯 Sou um profissional apaixonado por tecnologia e dados.
 
-* ** Fluxos no Alteryx Designer**
-  Desenvolvimento e automação de pipelines de dados corporativos de ponta a ponta (End-to-End), integrando processos avançados de ETL com foco em governança, eficiência e tratamento de dados brutos.
-  * **Tecnologias:** Alteryx Designer, SQL Server, ETL, Automação.
-  * **Destaques:** Conexão direta com banco de dados relacional SQL Server, higienização de bases complexas e organização de fluxos de trabalho automatizados para análises recorrentes.
-  * [📂 Ver Repositório](https://github.com/MaykeHonorato/fluxos-no-Alteryx-Designer-.git)
+Atualmente atuo como **Analista de Sistemas Júnior**, trabalhando com sustentação de sistemas corporativos em ambiente hospitalar.
 
-* ** Financeiro**
-  Análise financeira com receitas, despesas, margem e fluxo de caixa para suporte à gestão executiva.
-  * **Destaques técnicos:** Receita, custo e margem , DRE gerencial visual , Fluxo de caixa por período, Variações vs orçamento
-  * [📂 Ver Repositório](https://app.powerbi.com/view?r=eyJrIjoiMjM0ZGM3MjgtN2E5My00ZGRjLTllYTEtNThlMjRlZjk3MTgyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+Meu objetivo é construir uma carreira sólida na área de **Dados**, utilizando tecnologia para transformar informações em decisões inteligentes.
 
----
+Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 
-### 🧠 Linguagens e Tecnologias
-
-<p align="center">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="45" src="https://img.icons8.com/color/48/power-bi.png" />
-</p>
+- 📊 Power BI
+- 🐍 Python
+- 🗄 SQL Server
+- ⚡ ETL
+- ☁ AWS
+- 🔥 Databricks
+- 📈 Business Intelligence
 
 ---
 
-### 🌐 Conecte-se comigo
+# 💡 Atualmente
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maykehonorato/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:maike-honorato@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+```text
+📚 Estudando:
+├── SQL Avançado
+├── Python para Dados
+├── AWS Cloud
+├── Databricks
+├── Engenharia de Dados
+└── Power BI
+```
 
 ---
+
+# 🛠 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks"/>
+<img src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaykeHonorato&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykeHonorato&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MaykeHonorato&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaykeHonorato&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🚇 Urban Mobility Dashboard
+
+Dashboard desenvolvido para análise estratégica da mobilidade urbana utilizando Power BI.
+
+### Tecnologias
+
+- Power BI
+- SQL
+- DAX
+- ETL
+- Modelagem Star Schema
+
+🔗 **Repositório**
+
+https://github.com/MaykeHonorato/Urban-Mobility-Dashboard
+
+---
+
+## ⚙ Fluxos no Alteryx Designer
+
+Automação completa de pipelines ETL corporativos.
+
+### Tecnologias
+
+- Alteryx
+- SQL Server
+- ETL
+- Automação
+
+🔗
+
+https://github.com/MaykeHonorato/fluxos-no-Alteryx-Designer-
+
+---
+
+## 💰 Dashboard Financeiro
+
+Dashboard para análise financeira.
+
+### Recursos
+
+✔ Receita
+
+✔ Custos
+
+✔ Margem
+
+✔ Fluxo de Caixa
+
+✔ DRE
+
+🔗
+
+https://app.powerbi.com/view?r=eyJrIjoiMjM0ZGM3MjgtN2E5My00ZGRjLTllYTEtNThlMjRlZjk3MTgyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
+---
+
+# 📚 Roadmap
+
+```text
+SQL                 ████████░░░░░░░ 55%
+
+Power BI            ███████████████ 90%
+
+Python              ███████████░░░░ 70%
+
+AWS                 █████████░░░░░░ 60%
+
+Databricks          ████████░░░░░░░ 55%
+
+Spark               ██████░░░░░░░░░ 45%
+```
+
+---
+
+# 🎯 Objetivos
+
+✅ Engenharia de Dados
+
+✅ Data Analytics
+
+✅ Cloud Computing
+
+✅ Machine Learning
+
+✅ Big Data
+
+✅ Apache Spark
+
+✅ Databricks
+
+✅ AWS
+
+---
+
+# 🏆 Certificações
+
+📌 AWS Cloud Practitioner *(Em andamento)*
+
+📌 Microsoft PL-300 *(Planejada)*
+
+📌 Databricks Fundamentals
+
+📌 Oracle Database
+
+📌 SQL
+
+📌 Python
+
+---
+
+# 🌎 Vamos nos conectar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maykehonorato/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:maike-honorato@hotmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Visitantes
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MaykeHonorato&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MaykeHonorato&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+# 💬 Frase
+
+<div align="center">
+
+> **"Dados contam histórias. Meu trabalho é transformá-las em decisões inteligentes."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+Se gostou dos meus projetos, deixe uma ⭐ nos repositórios.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
+````
