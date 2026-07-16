@@ -3,15 +3,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Analista+de+Dados+em+Constru%C3%A7%C3%A3o;Business+Intelligence;Power+BI+%7C+SQL+%7C+Python;ETL+%7C+Data+Analytics;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80" />
 
-<p>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-00C9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
 
 </div>
 
@@ -43,6 +34,15 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
 
 </div>
 
