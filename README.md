@@ -197,7 +197,6 @@ Dashboard desenvolvido em **Power BI** para análise financeira, permitindo acom
 
 </div>
 
-
  🎯 Objetivo Profissional
 
 🚀 Minha missão é transformar dados em conhecimento e conhecimento em decisões.
@@ -216,36 +215,40 @@ Tenho como objetivo atuar na área de **Dados**, unindo minha experiência em si
 ☁️ **Cloud & Big Data**
 > AWS, Databricks e Apache Spark
 
-
-<h2 align="center">🤝 Vamos nos conectar</h2>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/maykehonorato/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:maike-honorato@hotmail.com">
-<img src="https://img.icons8.com/fluency/48/hotmail-new.png" height="48"/>
-</a>
-
-</p>
+<h2 align="center">🚀 Vamos construir algo juntos?</h2>
 
 <p align="center">
-<em>Aberto a oportunidades em Data Analytics, Business Intelligence e Engenharia de Dados.</em>
+Estou aberto a conexões, projetos e oportunidades nas áreas de 
+<strong>Data Analytics</strong>, <strong>Business Intelligence</strong> e <strong>Engenharia de Dados</strong>.
 </p>
 
-
-
-# 🐍 Minha Jornada de Código
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MaykeHonorato/MaykeHonorato/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://www.linkedin.com/in/maykehonorato/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mayke%20Honorato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:maike-honorato@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MaykeHonorato" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-MaykeHonorato-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+<br>
+
+<div align="center">
+
+💡 <em>"Transformando dados em insights e insights em decisões inteligentes."</em>
+
+</div>
+
+
 
 ### ⭐ Obrigado por visitar meu perfil!
 
