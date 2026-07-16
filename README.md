@@ -166,19 +166,16 @@ https://app.powerbi.com/view?r=eyJrIjoiMjM0ZGM3MjgtN2E5My00ZGRjLTllYTEtNThlMjRlZ
 
 # 📚 Roadmap
 
-```text
 SQL                 ████████░░░░░░░ 55%
 
 Power BI            ███████████████ 90%
 
-Python              ███████████░░░░ 70%
+Python             ████████░░░░░░░ 55%
 
 AWS                 █████████░░░░░░ 60%
 
 Databricks          ████████░░░░░░░ 55%
 
-Spark               ██████░░░░░░░░░ 45%
-```
 
 ---
 
@@ -200,26 +197,6 @@ Spark               ██████░░░░░░░░░ 45%
 
 ✅ AWS
 
----
-
-# 🏆 Certificações
-
-📌 AWS Cloud Practitioner *(Em andamento)*
-
-📌 Microsoft PL-300 *(Planejada)*
-
-📌 Databricks Fundamentals
-
-📌 Oracle Database
-
-📌 SQL
-
-📌 Python
-
----
-
-
-Esse estilo é bem limpo e profissional.
 
 ---
 
