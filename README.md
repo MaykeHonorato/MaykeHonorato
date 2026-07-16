@@ -147,62 +147,74 @@ Projeto desenvolvido para criação e automação de **pipelines ETL**, realizan
 </a>
 
 </p>
----
-
-## 💰 Dashboard Financeiro
-
-Dashboard para análise financeira.
-
-### Recursos
-
-✔ Receita
-
-✔ Custos
-
-✔ Margem
-
-✔ Fluxo de Caixa
-
-✔ DRE
-
-🔗
-
-https://app.powerbi.com/view?r=eyJrIjoiMjM0ZGM3MjgtN2E5My00ZGRjLTllYTEtNThlMjRlZjk3MTgyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
-
----
-
-# 📚 Roadmap
-
-SQL                 ████████░░░░░░░ 55%
-
-Power BI            ███████████████ 90%
-
-Python             ████████░░░░░░░ 55%
-
-AWS                 █████████░░░░░░ 60%
-
-Databricks          ████████░░░░░░░ 55%
 
 
----
+## 💰 [Dashboard Financeiro - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjM0ZGM3MjgtN2E5My00ZGRjLTllYTEtNThlMjRlZjk3MTgyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
-# 🎯 Objetivos
+Dashboard desenvolvido em **Power BI** para análise financeira, permitindo acompanhar indicadores estratégicos, desempenho operacional e evolução dos resultados através de uma visão gerencial.
 
-✅ Engenharia de Dados
+### 🛠 Tecnologias utilizadas
 
-✅ Data Analytics
+<div>
 
-✅ Cloud Computing
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00C9A7?style=for-the-badge)
 
-✅ Machine Learning
+</div>
 
-✅ Big Data
+### 📌 Principais análises
 
-✅ Apache Spark
+✔ Receita e evolução financeira  
+✔ Controle de custos e despesas  
+✔ Análise de margem e rentabilidade  
+✔ Fluxo de caixa por período  
+✔ Demonstrativo de Resultado (DRE)  
+✔ Indicadores para suporte à tomada de decisão  
 
-✅ Databricks
+<p align="center">
 
-✅ AWS
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjM0ZGM3MjgtN2E5My00ZGRjLTllYTEtNThlMjRlZjk3MTgyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">
+<img src="https://img.shields.io/badge/📊%20Visualizar%20Dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
+
+</p>
+
+
+
+# 📚 Jornada de Aprendizado
+
+<div align="center">
+
+| Tecnologia | Nível Atual | Foco |
+|------------|-------------|------|
+| 🗄️ SQL | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% | Consultas avançadas, otimização e modelagem |
+| 📊 Power BI | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% | Dashboards, DAX e Business Intelligence |
+| 🐍 Python | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% | Análise de dados e automação |
+| ☁️ AWS | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% | Cloud Computing e serviços de dados |
+| 🔥 Databricks | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% | Engenharia de Dados e Apache Spark |
+
+</div>
+
+
+ 🎯 Objetivo Profissional
+
+🚀 Minha missão é transformar dados em conhecimento e conhecimento em decisões.
+
+Tenho como objetivo atuar na área de **Dados**, unindo minha experiência em sistemas com conhecimentos em:
+
+📊 **Business Intelligence**
+> Dashboards, KPIs e análise estratégica
+
+🗄️ **Data Analytics**
+> SQL, Python e tratamento de dados
+
+🏗️ **Engenharia de Dados**
+> ETL, Pipelines e Arquitetura de Dados
+
+☁️ **Cloud & Big Data**
+> AWS, Databricks e Apache Spark
 
 
 ---
