@@ -35,7 +35,6 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-00C9FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Business%20Intelligence-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 
