@@ -234,7 +234,7 @@ Esse estilo é bem limpo e profissional.
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:maike-honorato@hotmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" height="48"/>
+<img src="https://img.icons8.com/fluency/48/hotmail-new.png" height="48"/>
 </a>
 
 </p>
