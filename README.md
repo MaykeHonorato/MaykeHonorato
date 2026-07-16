@@ -39,12 +39,6 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 
 # 🛠 Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,vscode,docker"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
