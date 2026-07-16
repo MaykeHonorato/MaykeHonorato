@@ -230,7 +230,7 @@ Estou aberto a conexões, projetos e oportunidades nas áreas de
 <img src="https://img.shields.io/badge/LinkedIn-Mayke%20Honorato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:maike-honorato@hotmail.com">
+<a href="https://outlook.live.com/mail/0/deeplink/compose?to=maike-honorato@hotmail.com">
 <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
