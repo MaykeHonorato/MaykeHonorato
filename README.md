@@ -218,23 +218,30 @@ Spark               ██████░░░░░░░░░ 45%
 
 ---
 
-## 🚀 Vamos construir algo incrível juntos?
 
-<div align="center">
+Esse estilo é bem limpo e profissional.
 
-Se você deseja conversar sobre projetos, tecnologia ou oportunidades na área de Dados, será um prazer trocar ideias.
+---
 
-<br><br>
+<h2 align="center">🤝 Vamos nos conectar</h2>
 
-<a href="mailto:maike-honorato@hotmail.com">
-<img src="https://img.shields.io/badge/Enviar_Email-181717?style=for-the-badge&logo=gmail"/>
-</a>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/maykehonorato/">
-<img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</div>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:maike-honorato@hotmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" height="48"/>
+</a>
+
+</p>
+
+<p align="center">
+<em>Aberto a oportunidades em Data Analytics, Business Intelligence e Engenharia de Dados.</em>
+</p>
 
 ---
 
