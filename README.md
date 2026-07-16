@@ -33,22 +33,11 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 - ☁ AWS
 - 🔥 Databricks
 - 📈 Business Intelligence
-
-
-
-# 💡 Atualmente
-
-📚 Estudando:
-├── SQL Avançado
-├── Python para Dados
-├── AWS Cloud
-├── Databricks
-├── Engenharia de Dados
-└── Power BI
-
-# 🛠 Tecnologias
+# 🛠 Stack Tecnológica
 
 <div align="center">
+
+### 📊 Dados & Analytics
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,vscode"/>
 
@@ -56,10 +45,24 @@ Tenho dedicado meus estudos ao desenvolvimento de soluções utilizando:
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br>
+
+### ☁️ Cloud & Engenharia de Dados
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br>
+
+### 🔄 Ferramentas
+
 <img src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
