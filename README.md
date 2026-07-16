@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Mayke%20Honorato%20Mazoni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
